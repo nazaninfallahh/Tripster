@@ -10,7 +10,7 @@ The app also includes a profile section, where users can view their bookings, tr
 
 # Preview 
 
-# shorturl.at/fvCIK
+# https://shorturl.at/fvCIK
 
 # ____________________________________________________________________________
 
