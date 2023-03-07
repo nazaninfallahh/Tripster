@@ -10,7 +10,7 @@ The app also includes a profile section, where users can view their bookings, tr
 
 # Preview 
 
-https://www.figma.com/file/fjbo65gEdSAQ2AXmhoitPN/Tripster?node-id=0%3A1&t=lOr4cH5rxKuFvU1B-1
+https://www.figma.com/proto/fjbo65gEdSAQ2AXmhoitPN/Tripster?node-id=1-2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2&show-proto-sidebar=1
 
 # ____________________________________________________________________________
 
