@@ -12,8 +12,6 @@ The app also includes a profile section, where users can view their bookings, tr
 
 # https://shorturl.at/fvCIK
 
-# _____________________________________________________________________
-
 
 <img src="https://user-images.githubusercontent.com/97963854/223570806-ab6a0ce0-07c9-4016-a682-c4afd77fd6b7.png" width=50%> <img src="https://user-images.githubusercontent.com/97963854/223572381-06a76cdf-6251-442e-acf0-34bfd423b1f9.png" width=47.29%> 
 
