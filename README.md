@@ -8,4 +8,4 @@ The app includes a range of features to help users plan their trips, including t
 
 The app also includes a profile section, where users can view their bookings, track their loyalty points, and manage their account settings. Overall, the design of Tripster is focused on providing a seamless and enjoyable user experience for travelers, whether they're planning their next adventure or exploring a new destination.
 
-![Frame 1](https://user-images.githubusercontent.com/97963854/223567699-679633bb-b4b5-43a0-9bc8-fd2a137d81dc.png)
+![Frame 1](https://user-images.githubusercontent.com/97963854/223570494-c39b6a49-cb1d-4ffb-b766-17faf0d8a8e1.png)
