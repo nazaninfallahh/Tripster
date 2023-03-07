@@ -16,4 +16,5 @@ https://www.figma.com/file/fjbo65gEdSAQ2AXmhoitPN/Tripster?node-id=0%3A1&t=lOr4c
 
 
 <img src="https://user-images.githubusercontent.com/97963854/223570806-ab6a0ce0-07c9-4016-a682-c4afd77fd6b7.png" width=50%, height=50%> 
-![M2](https://user-images.githubusercontent.com/97963854/223572381-06a76cdf-6251-442e-acf0-34bfd423b1f9.png)
+<img src="https://user-images.githubusercontent.com/97963854/223572381-06a76cdf-6251-442e-acf0-34bfd423b1f9.png" width=50%, height=50%> 
+
